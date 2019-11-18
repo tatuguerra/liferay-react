@@ -5,6 +5,7 @@
 Download Liferay Project SDK
 ### second step
 install dependencies
+https://www.npmjs.com/package/generator-liferay-js
 
 Pending information (Gradle, Node...)
 ### third step
