@@ -1,4 +1,4 @@
-# Liferay-react
+# Liferay react ToDo
 
 ## start project
 ### first step
