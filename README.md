@@ -7,6 +7,7 @@ Download Liferay Project SDK
 install dependencies
 https://www.npmjs.com/package/generator-liferay-js
 
+In liferay install plugin Liferay CE JS Portlet Extender
 Pending information (Gradle, Node...)
 ### third step
 Open terminal and open project folder
